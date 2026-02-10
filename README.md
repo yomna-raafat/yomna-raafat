@@ -1,29 +1,37 @@
 # Hi, I'm Yomna 👋
 
-**UI Developer** specializing in responsive web interfaces and component-driven design
+**UI Developer** focused on building scalable, consistent, and responsive user interfaces.
+I specialize in transforming design concepts into structured UI systems using component-driven architecture, design tokens, and reusable patterns. My work focuses on usability, visual consistency, and building interfaces that scale across products and languages.
 
-📍 Based in Egypt | 🎓 ITI Graduate | 💼 4+ Years Experience
+📍 Egypt | 🎓 ITI Graduate | 💼 4+ Years Experience
 
 ---
 
 ## 💻 What I Do
-
-I build **clean, responsive websites** that work seamlessly across devices. Currently at **Smartware** developing enterprise UI systems, previously delivered **15+ freelance projects** for clients across multiple industries.
+I build user interfaces that are designed to grow with products, not just deliver pages.
 
 **Core Focus:**
-- Responsive web design & mobile-first development
-- Component libraries & reusable UI systems  
-- Arabic & bilingual website development
-- Bootstrap-based design systems
+- Component-based UI development
+- Design tokens and consistent styling systems
+- Responsive and mobile-first interfaces
+- UI documentation and reusable component structures
+- Email template development and cross-client compatibility
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript  
-**Frameworks:** Angular · Bootstrap · Sass  
-**Design:** Figma · Adobe XD  
-**Tools:** Git · GitHub · Azure DevOps
+**Frontend:**
+HTML5 · CSS3 · JavaScript · TypeScript
+
+**Frameworks:**
+Angular · Bootstrap · Sass
+
+**Design:**
+Figma · Adobe XD
+
+**Tools:**
+Git · GitHub · Azure DevOps
 
 ---
 
@@ -38,7 +46,7 @@ Modern payment platform interface
 `HTML5` `CSS3` `JavaScript`
 
 ### [Pixel Store](https://pixel-sandy.vercel.app/)
-Design resources marketplace with wallet system  
+Design resources marketplace with a wallet system  
 `Bootstrap` `JavaScript` `UI/UX`
 
 ### [Ityaan HR Platform](https://ityaan.vercel.app/)
